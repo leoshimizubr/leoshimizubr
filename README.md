@@ -61,11 +61,3 @@
 </li>
 	
 </ul>
-</div>
-
-<br>
-<br>
-<br>
-<br>
-
-<div align='center'>
